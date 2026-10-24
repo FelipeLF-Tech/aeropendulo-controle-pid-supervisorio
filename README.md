@@ -13,7 +13,7 @@ Projeto de controle de um aeropêndulo com firmware Arduino e interface supervis
 4. Teste primeiro sem conectar cargas/motores, depois valide com o circuito e os procedimentos de segurança do laboratório.
 
 ## Autoria e status
-Código recuperado de pastas pessoais de Arduino/Processing. Confirmar autoria individual e quais trechos foram desenvolvidos com assistência de IA ou em grupo antes de publicar. A pasta contém a versão curada para revisão; há variantes mais novas/de teste que não foram copiadas.
+Código recuperado de pastas pessoais de Arduino/Processing. Confirmar autoria individual e quais trechos foram desenvolvidos com assistência de IA ou em grupo antes de publicar. Este repositório contém os fontes selecionados; existem variantes de desenvolvimento não incluídas.
 
-## Pendências antes de GitHub
+## Estado de validação e próximos passos
 Conferir firmware e supervisório em conjunto, revisar pinos e segurança do atuador, adicionar screenshot/vídeo autorizado e licença somente após escolha. Não incluir dumps de dados sem conferir privacidade.
